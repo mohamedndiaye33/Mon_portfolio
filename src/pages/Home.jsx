@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import ONE from "../asset/ONE.jpeg";
+import ONE from "../assets/one.jpeg";
 function Home() {
   return (
     <div className="min-h-screen py-12 flex flex-col md:flex-row items-center justify-center gap-10 px-6">

@@ -1,5 +1,5 @@
-import Ordi2 from "../asset/Ordi2.jpg";
-import IMG from "../asset/IMG1.jpeg";
+import Ordi2 from "../assets/ordi2.jpg";
+import IMG from "../assets/img1.jpeg";
 export const projects = [
     
   {
