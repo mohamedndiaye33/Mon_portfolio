@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Langage from "../asset/Langage.jpg";
+import Langage from "../assets/langage.jpg";
 
 
 const skills = [
