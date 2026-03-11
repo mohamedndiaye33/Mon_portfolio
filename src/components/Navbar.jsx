@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 function Navbar({ darkMode, setDarkMode }) {
-  const [open, setOpen] = useState(false);
+  const [open] = useState(false);
 
   return (
     <motion.nav 
